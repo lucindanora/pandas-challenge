@@ -1,5 +1,5 @@
 # pandas-challenge
-PyCity Schools District Analysis
+PyCity Schools District Analysis and references
 
 In the PyCity Schools district, there are 7 regular public high schools and 8 charter high schools, enrolling a total of 39,170 students. 31% of students attend charter schools. The district has a total budget of $24,649,428 with per capita spending ranging from $581 to $655. The overall passing rate, identified as receiving a score of 70 or higher for both math and reading,  for this district is 65%, with 75% of students passing math, and 85% passing reading. Average test scores for both math and reading in this district remain relatively stable across all four years of high school for all 15 schools. 
 
