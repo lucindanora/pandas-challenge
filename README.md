@@ -1,1 +1,15 @@
 # pandas-challenge
+PyCity Schools District Analysis
+
+In the PyCity Schools district, there are 7 regular public high schools and 8 charter high schools, enrolling a total of 39,170 students. 31% of students attend charter schools. The district has a total budget of $24,649,428 with per capita spending ranging from $581 to $655. The overall passing rate, identified as receiving a score of 70 or higher for both math and reading,  for this district is 65%, with 75% of students passing math, and 85% passing reading. Average test scores for both math and reading in this district remain relatively stable across all four years of high school for all 15 schools. 
+
+In this district, spending did not correlate with higher test scores, but smaller school size did. The schools that spent the most money per student, $645-680, had the lowest overall passing rate and schools that spent the least, less than $585 per student, had the highest overall passing rate. In fact, the highest spending schools had an overall passing rate of only 53.5%.  Smaller schools with less than a thousand students had a overall passing rate of 90% compared to larger schools, 58%. Both of these factors play into the fact that charter schools outperformed their district counterparts. Charter schools had an average of 1524 students compared to public schools who had an average of 3853 students. Charter schools occupy the top 5 spots in the district and all but one is in the small/medium category for student body size.  
+
+It is difficult to interpret these results without understanding the community/district they are pulled from. There could be factors not introduced here related to the demographics of each school, the types of parents likely to or able to send their children to charter schools compared to standard public schools, what types of charter schools are represented and so on. However, based on the data provided we can conclude in this district, charter school students are doing far better than their standard public school counterparts, and the charter schools are doing this with less money. School size also plays a key role in overall school success in this district.
+
+References:
+For this challenge I worked with study group (Eric Johnson, Frewoini Mebrahtu, Giacomo Siciliani, Michelle Clark, Suhasini Jampuram and Mitchel Lor), obtained further assistance from Stackoverflow, spcifically https://stackoverflow.com/questions/51378799/grouping-one-column-using-agg-join-but-only-on-unique-values and in class assignments. I also spent time in office hours, google and pandas forums, but the bulk of help came from study groups working together and previous in class assignments. 
+https://stackoverflow.com/questions/73694605/create-3-dataframes-from-original-dataframe-using-existing-values
+https://stackoverflow.com/questions/17071871/how-do-i-select-rows-from-a-dataframe-based-on-column-values
+https://stackoverflow.com/questions/51800194/pandas-remove-index-column-header
+https://gtribello.github.io/mathNET/assets/notebook-writing.html#:~:text=Writing%20text&text=If%20you%20want%20to%20use,'%20and%20click%20'Markdown'.
